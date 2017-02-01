@@ -1,2 +1,4 @@
 # CfRadial
-NetCDF CF Conventions for radial coordinate data for RADAR and LIDAR
+NetCDF CF Conventions for RADAR and LIDAR data in polar coordinates.
+
+
