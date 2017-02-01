@@ -23,3 +23,5 @@ NetCDF CF Conventions for radial coordinate data for RADAR and LIDAR
 | Date          | Activity   |
 | ------------- |:------------------------------:|
 | 2017        | [Version 2.0 draft] (./docs/CfRadialDoc.v2.0.draft.pdf) |
+=======
+NetCDF CF Conventions for RADAR and LIDAR data in polar coordinates.
