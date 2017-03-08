@@ -17,8 +17,9 @@ NetCDF CF Conventions for RADAR and LIDAR data in polar coordinates.
 | 2013/07/01  | [Version 1.3] (./docs/CfRadialDoc.v1.3.20130701.pdf) |
 | 2011/06/07  | [Version 1.2] (./docs/CfRadialDoc.v1.2.20110607.pdf) |
 | 2011/02/15  | [Version 1.1] (./docs/CfRadialDoc.v1.1.20110215.pdf) |
+| 2010        | [Initial submission to CF] (http://cf-trac.llnl.gov/trac/ticket/59) |
 
-### Timeline - version 2 - NetCDF with Groups
+### Timeline - version 2 NetCDF4 with Groups
 
 | Date          | Activity   |
 | ------------- |:------------------------------:|
