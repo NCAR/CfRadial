@@ -34,3 +34,7 @@ NetCDF CF Conventions for RADAR and LIDAR data in polar coordinates.
 | 2018          | [Version 2.0] (./current_docs/CfRadialStandardNames.20180615.pdf) |
 | 2017          | [Version 1.0] (./old_docs/CfRadialStandardNames.20171222.pdf) |
 
+### This page is published at:
+
+[https://ncar.github.io/CfRadial](https://ncar.github.io/CfRadial)
+
